@@ -1,5 +1,5 @@
-Cakephp-Polls-Plugin
-====================
+Cakephp-Polls-Plugin \n
+====================\n
 
 Cakephp Polls Plugin , Multi Poll 
 Activation instructions
