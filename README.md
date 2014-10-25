@@ -29,7 +29,7 @@ by calling the poll element anywhere
 
 where the model is the name of poll
 
-this plugin developed by Zuha and ahmad maher
+this plugin developed by Zuha and Ahmad Maher
 
 For more details http://amdmaher.wordpress.com
 
