@@ -1,12 +1,19 @@
-Cakephp-Polls-Plugin \n
-====================\n
+Cakephp-Polls-Plugin 
+
+====================
 
 Cakephp Polls Plugin , Multi Poll 
+
 Activation instructions
+
  just add the plugin folder to app/plugin 
+ 
  and load the plugin  in app/Config/bootstrap.php
+ 
 CakePlugin::load('Polls');
+
 create the schema 
+
 $  Console/cake schema create
 from the plugin schema file
 
